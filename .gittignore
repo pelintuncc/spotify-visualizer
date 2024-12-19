@@ -1,1 +1,20 @@
 config.py
+# MacOS ve sistem dosyaları
+.DS_Store
+.cache/
+
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+*.pyo
+
+# Sanal ortam dosyaları
+venv/
+
+# Veriler
+data/
+
+# Log dosyaları
+*.log
+
+
